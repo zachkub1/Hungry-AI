@@ -56,7 +56,7 @@ const Benefits = () => {
       <section className="description text-center py-10">
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black mb-6">EFFORTLESSLY PLAN MEALS</h2>
         <p className="text-black mb-6 px-4 md:px-0">
-          Say goodbye to meal planning stress and hello to easy, personalized meal planning and customization with I'm Hungry AI.
+          Say goodbye to meal planning stress and hello to easy, personalized meal planning and customization with I&aposm Hungry AI.
         </p>
         <div className="points flex flex-wrap justify-around">
           {descriptionPoints.map((point, index) => (
